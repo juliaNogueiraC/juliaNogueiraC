@@ -17,7 +17,7 @@
 - Self-taught Front-end developer
 - Software engineering Degree
 - Currently learning Web Development by Self
-- Graphic Designer and UX/UI Designer [Portofolio link BEHANCE](https://www.behance.net/jlianogueira4)
+- Graphic Designer and UX/UI Designer [Portfolio link BEHANCE](https://www.behance.net/jlianogueira4)
 - I’m currently open for an Intern or a new job opportunity!
 
 <br><br>
