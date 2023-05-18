@@ -10,7 +10,7 @@
 	
 ##  **About me**
 
-<picture> <img align="right" src="https://www.fohlio.com/hubfs/5-ways-to-lower-procurement-costs-streamlining-your-procurement-process-opex.gif" width = 400px></picture>
+<picture> <img align="right" src="https://www.fohlio.com/hubfs/5-ways-to-lower-procurement-costs-streamlining-your-procurement-process-opex.gif" width = 330px></picture>
 
 <br>
 
@@ -51,7 +51,9 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,xd,ps,wordpress&perline=14" />
+    </a>
     ![Power BI](https://img.shields.io/badge/---Power%20BI-yellow)
 
 <br>
@@ -61,7 +63,7 @@
 - **My next steps in learning**:
 	
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,docker,java,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind, powerbi&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,docker,java,mongodb,mysql,nextjs,nodejs,py,react,tailwind&perline=14" />
   </a>
 	
 <br>
