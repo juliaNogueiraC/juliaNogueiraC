@@ -59,19 +59,10 @@
 
 
 - **My next steps in learning**:
-
-    ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-	![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-	<br>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a>
-	 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a>
+	
+	<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,docker,java,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind, powerbi&perline=14" />
+  </a>
 	
 <br>
 __________________________________________________________________________________________________________________________________________
