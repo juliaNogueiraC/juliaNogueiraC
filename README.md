@@ -29,7 +29,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Languages and Skills**:
     
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +64,7 @@
 - **My next steps in learning**:
 	
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,docker,java,mongodb,mysql,nextjs,nodejs,py,react,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,docker,java,mongodb,nextjs,nodejs,py,react,tailwind&perline=14" />
   </a>
 	
 <br>
