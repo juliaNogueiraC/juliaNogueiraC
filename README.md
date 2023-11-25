@@ -10,13 +10,13 @@
 	
 ##  **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width = 330px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width = 250px></picture>
 
 <br>
 
 - Self-taught Data Analysis 
+- Learning Machine Learning 
 - Software engineering Degree
-- Graphic Designer and UX/UI Designer [Portfolio link BEHANCE](https://www.behance.net/jlianogueira4)
 - I’m currently open for an Intern or a new job opportunity!
 
 <br><br>
