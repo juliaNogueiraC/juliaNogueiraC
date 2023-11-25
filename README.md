@@ -31,7 +31,7 @@
 - **Languages and Skills**:
     
   	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,jsline=14" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js" />
   </a>
 
 <br>
