@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Julia Nogueira! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Julia Nogueira! </b><img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="40"></h1>
 
 
 
@@ -10,13 +10,12 @@
 	
 ##  **About me**
 
-<picture> <img align="right" src="https://www.fohlio.com/hubfs/5-ways-to-lower-procurement-costs-streamlining-your-procurement-process-opex.gif" width = 330px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width = 330px></picture>
 
 <br>
 
-- Self-taught Front-end developer
+- Self-taught Data Analysis 
 - Software engineering Degree
-- Currently learning Web Development by Self
 - Graphic Designer and UX/UI Designer [Portfolio link BEHANCE](https://www.behance.net/jlianogueira4)
 - I’m currently open for an Intern or a new job opportunity!
 
@@ -32,17 +31,8 @@
 - **Languages and Skills**:
     
   	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,jsline=14" />
   </a>
-
-<br>   
-    
-- **Front-End Development**:
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
-
 
 <br>
 
@@ -62,7 +52,7 @@
 - **My next steps in learning**:
 	
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,docker,java,mongodb,nextjs,nodejs,py,react,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,docker,java,mongodb,nextjs,nodejs,react,tailwind&perline=14" />
   </a>
 	
 <br>
