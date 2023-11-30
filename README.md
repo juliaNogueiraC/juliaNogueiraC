@@ -52,7 +52,7 @@
 - **My next steps in learning**:
 	
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=R,bootstrap,docker,java,mongodb,nextjs,nodejs,react,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=r,django,bootstrap,docker,java,kubernetes,mongodb" />
   </a>
 	
 <br>
