@@ -13,11 +13,21 @@
 <picture> <img align="right" src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width = 250px></picture>
 
 <br>
+Sou uma profissional versátil apaixonada por transformar dados em insights significativos. Minha formação é em Engenharia de Software, onde desenvolvi habilidades analíticas aguçadas e um olhar crítico para soluções inovadoras. Trabalhei como Analista de Marketing e Design voltado a Experiência do Usuário, e agora embarco no universo da Análise de Dados. 
+<ul>
 
-- Self-taught Data Analysis 
-- Learning Machine Learning 
-- Software engineering Degree
-- I’m currently open for an Intern or a new job opportunity!
+<li>
+Self-taught Data Analysis 
+</li>
+<li>
+Learning Machine Learning 
+</li>
+<li>
+Software engineering Degree 
+</li>
+</ul> 
+<br>
+📈 Principais Competências: Python | SQL | Power BI | Machine Learning | Engenharia de Software | Análise de Dados | Engenharia de Requisitos | Scrum | GitHub | HTML&CSS | Tableau
 
 <br><br>
 
@@ -62,7 +72,8 @@ ________________________________________________________________________________
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
+Conecte-se para Explorarmos Juntos as Possibilidades! Estou aberta a oportunidades desafiadoras na área de análise de dados, onde posso aplicar minha sólida formação técnica para gerar impacto significativo.
+	<br><br>
 <ul>
 
 <li>
