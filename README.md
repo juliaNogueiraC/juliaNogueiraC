@@ -77,17 +77,15 @@ Conecte-se para Explorarmos Juntos as Possibilidades! Estou aberta a oportunidad
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/julianogueirac" target="_blank">
-<img src="https://img.shields.io/badge/Linkedin-julianogueirac-blue" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+	<p> <b> Linkedin: www.linkedin.com/in/julianogueirac </b></p>
+
 </li>
 
 <br>
 
 <li>
-<a href="artportfoliojulia@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/GMAIL-artportfoliojulia%40gmail.com-red" t=mail style="margin-bottom: 5px;" />
-</a>
+<p> <b>Gmail: julia.nogueira288@gmail.com</p>
+
 </li>
 	
 </ul>
