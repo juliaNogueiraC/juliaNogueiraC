@@ -27,7 +27,8 @@ Software engineering Degree
 </li>
 </ul> 
 <br>
-📈 Principais Competências: Python | SQL | Power BI | Machine Learning | Engenharia de Software | Análise de Dados | Engenharia de Requisitos | Scrum | GitHub | HTML&CSS | Tableau | MongoDB
+📈 Principais Competências: Python | SQL | Power BI | Engenharia de Software | Análise de Dados | Engenharia de Requisitos | Scrum | GitHub | HTML&CSS | Tableau | MongoDB | Business Intelligence | Gestão de Projetos de Software.
+
 
 <br><br>
 
