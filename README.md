@@ -27,7 +27,7 @@ Software engineering Degree
 </li>
 </ul> 
 <br>
-📈 Principais Competências: Python | SQL | Power BI | Machine Learning | Engenharia de Software | Análise de Dados | Engenharia de Requisitos | Scrum | GitHub | HTML&CSS | Tableau
+📈 Principais Competências: Python | SQL | Power BI | Machine Learning | Engenharia de Software | Análise de Dados | Engenharia de Requisitos | Scrum | GitHub | HTML&CSS | Tableau | MongoDB
 
 <br><br>
 
@@ -41,7 +41,7 @@ Software engineering Degree
 - **Languages and Skills**:
     
   	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb" />
   </a>
 
 <br>
@@ -50,7 +50,7 @@ Software engineering Degree
 
    
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps,replit,vscode,git,github,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=figma,xd,ps,replit,vscode,git,github,docker,wordpress&perline=14" />
     </a>
 	
     ![Power BI](https://img.shields.io/badge/---Power%20BI-yellow)
@@ -62,7 +62,7 @@ Software engineering Degree
 - **My next steps in learning**:
 	
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,django,bootstrap,docker,java,kubernetes,mongodb" />
+    <img src="https://skillicons.dev/icons?i=r,django,bootstrap,java,kubernetes" />
   </a>
 	
 <br>
