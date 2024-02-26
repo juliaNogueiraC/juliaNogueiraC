@@ -62,7 +62,7 @@ Software engineering Degree
 - **My next steps in learning**:
 	
 	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,django,bootstrap,java,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=r,django,bootstrap,java,kubernetes,php,aws,azure,postgres" />
   </a>
 	
 <br>
