@@ -17,14 +17,13 @@ Sou uma profissional versátil apaixonada por transformar dados em insights sign
 <ul>
 
 <li>
-Self-taught Data Analysis 
+Analista de Dados & BI
 </li>
 <li>
-Learning Machine Learning 
+Bacharelado em Engenharia de Software
 </li>
 <li>
-Software engineering Degree 
-</li>
+MBA em Análise de Dados com BI e Big Data</li>
 </ul> 
 <br>
 📈 Principais Competências: Python | SQL | Power BI | Engenharia de Software | Análise de Dados | Engenharia de Requisitos | Scrum | GitHub | HTML&CSS | Tableau | MongoDB | Business Intelligence | Gestão de Projetos de Software.
