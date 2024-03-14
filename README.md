@@ -26,7 +26,7 @@ Bacharelado em Engenharia de Software
 MBA em Análise de Dados com BI e Big Data</li>
 </ul> 
 <br>
-📈 Principais Competências: Python | SQL | Power BI | Engenharia de Software | Análise de Dados | Engenharia de Requisitos | Scrum | GitHub | HTML&CSS | Tableau | MongoDB | Business Intelligence | Gestão de Projetos de Software.
+📈 Principais Competências: Python | SQL | Power BI | DuckDB | Engenharia de Software | Análise de Dados | Engenharia de Requisitos | Scrum | GitHub | HTML&CSS | Tableau | MongoDB | Business Intelligence | Gestão de Projetos de Software.
 
 
 <br><br>
@@ -41,8 +41,10 @@ MBA em Análise de Dados com BI e Big Data</li>
 - **Languages and Skills**:
     
   	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb,duckdb" />
   </a>
+
+    ![DuckDB](https://img.shields.io/badge/DuckDB-gray)
 
 <br>
 
