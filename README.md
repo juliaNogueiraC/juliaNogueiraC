@@ -52,7 +52,7 @@ MBA em Análise de Dados com BI e Big Data</li>
 
    
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps,replit,vscode,git,github,docker,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=figma,xd,ps,replit,vscode,git,github,docker,gcp,powershell,wordpress&perline=14" />
     </a>
 	
     ![Power BI](https://img.shields.io/badge/---Power%20BI-yellow)
