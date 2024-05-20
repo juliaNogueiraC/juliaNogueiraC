@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Julia Nogueira! </b><img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="40"></h1>
+<h1 align="center"><b>Olá! Sou Julia Nogueira! </b><img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="40"></h1>
 
 
 
@@ -8,25 +8,28 @@
 
 
 	
-##  **About me**
+##  **Sobre mim**
 
 <picture> <img align="right" src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width = 250px></picture>
 
 <br>
-Sou uma profissional versátil apaixonada por transformar dados em insights significativos. Minha formação é em Engenharia de Software, onde desenvolvi habilidades analíticas aguçadas e um olhar crítico para soluções inovadoras. Trabalhei como Analista de Marketing e Design voltado a Experiência do Usuário, e agora embarco no universo da Análise de Dados. 
+Sou uma profissional versátil apaixonada por transformar dados em insights significativos. Minha formação é em Engenharia de Software, onde desenvolvi habilidades analíticas aguçadas e um olhar crítico para soluções inovadoras. 
 <ul>
 
-<li>
-Analista de Dados & BI
-</li>
 <li>
 Bacharelado em Engenharia de Software
 </li>
 <li>
 MBA em Análise de Dados com BI e Big Data</li>
+<li>
+Analista de Dados & BI
+</li>
+<li>
+Desenvolvedora Python(Data Science)
+</li>
 </ul> 
 <br>
-📈 Principais Competências: Python | SQL | Power BI | DuckDB | Engenharia de Software | Análise de Dados | Engenharia de Requisitos | Scrum | GitHub | HTML&CSS | Tableau | MongoDB | Business Intelligence | Gestão de Projetos de Software.
+📈 Principais Competências: Python | SQL | Power BI | DuckDB | Engenharia de Software | Data Science | Análise de Dados | Engenharia de Requisitos | Scrum | GitHub | HTML&CSS | Tableau | MongoDB | Business Intelligence | Gestão de Projetos de Software.
 
 
 <br><br>
@@ -38,7 +41,7 @@ MBA em Análise de Dados com BI e Big Data</li>
 
 <p align="center">
 
-- **Languages and Skills**:
+- **Linguagens e Skills**:
     
   	<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb,duckdb" />
@@ -48,7 +51,7 @@ MBA em Análise de Dados com BI e Big Data</li>
 
 <br>
 
-- **Softwares and Tools**:
+- **Softwares e Ferramentas**:
 
    
     <a href="https://skillicons.dev">
@@ -61,7 +64,7 @@ MBA em Análise de Dados com BI e Big Data</li>
 
 
 
-- **My next steps in learning**:
+- **Próximas etapas de aprendizado**:
 	
 	<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=r,django,bootstrap,java,kubernetes,php,aws,azure,postgres" />
@@ -71,7 +74,7 @@ MBA em Análise de Dados com BI e Big Data</li>
 __________________________________________________________________________________________________________________________________________
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Entre em contato! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 Conecte-se para Explorarmos Juntos as Possibilidades! Estou aberta a oportunidades desafiadoras na área de análise de dados, onde posso aplicar minha sólida formação técnica para gerar impacto significativo.
