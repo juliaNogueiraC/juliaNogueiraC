@@ -52,10 +52,14 @@ Desenvolvedora Python(Data Science)
 
 <br>
 
+
+
 <div align="center">
     <a href="https://github.com/juliaNogueiraC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaNogueiraC&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaNogueiraC&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliaNogueiraC&layout=compact&langs_count=8&theme=dark" />
+	    <br>
+	    <br>
+    <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliaNogueiraC&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
 </div>
 
 <br>
