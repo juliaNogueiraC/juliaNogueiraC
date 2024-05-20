@@ -31,7 +31,6 @@ Desenvolvedora Python(Data Science)
 <br>
 📈 Principais Competências: Python | SQL | Power BI | DuckDB | Engenharia de Software | Data Science | Análise de Dados | Engenharia de Requisitos | Scrum | GitHub | HTML&CSS | Tableau | MongoDB | Business Intelligence | Gestão de Projetos de Software.
 
-
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -41,28 +40,25 @@ Desenvolvedora Python(Data Science)
 
 <p align="center">
 
-- **Linguagens e Skills**:
+- **Linguagens, Softwares e Ferramentas**:
     
   	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb,duckdb" />
-  </a>
-
-    ![DuckDB](https://img.shields.io/badge/DuckDB-gray)
-
-<br>
-
-- **Softwares e Ferramentas**:
-
-   
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps,replit,vscode,git,github,docker,gcp,powershell,wordpress&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb,figma,xd,ps,replit,vscode,git,github,docker,gcp,powershell,wordpress&perline=14" />
     </a>
+    
+     ![DuckDB](https://img.shields.io/badge/DuckDB-gray)
 	
     ![Power BI](https://img.shields.io/badge/---Power%20BI-yellow)
 
 <br>
 
+<div align="center">
+    <a href="https://github.com/juliaNogueiraC">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliaNogueiraC&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaNogueiraC&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
 
+<br>
 
 - **Próximas etapas de aprendizado**:
 	
@@ -71,6 +67,8 @@ Desenvolvedora Python(Data Science)
   </a>
 	
 <br>
+
+
 __________________________________________________________________________________________________________________________________________
 
 
