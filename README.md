@@ -13,7 +13,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width = 250px></picture>
 
 <br>
-Sou uma profissional versátil apaixonada por transformar dados em insights significativos. Minha formação é em Engenharia de Software, onde desenvolvi habilidades analíticas aguçadas e um olhar crítico para soluções inovadoras. 
+Sou uma profissional versátil apaixonada por transformar dados em insights significativos. Minha formação é em Engenharia de Software, onde desenvolvi habilidades analíticas aguçadas e um olhar crítico para soluções inovadoras. Meus projetos de dados são em sua maior parte, voltados para área de negócios e gestão de pessoas. 
 <ul>
 
 <li>
@@ -25,7 +25,7 @@ MBA em Análise de Dados com BI e Big Data</li>
 Analista de Dados & BI
 </li>
 <li>
-Desenvolvedora Python(Data Science)
+Desenvolvedora Python Data Science
 </li>
 </ul> 
 <br>
