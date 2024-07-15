@@ -5,8 +5,8 @@ Sou uma profissional versátil apaixonada por transformar dados em insights sign
 
 
 <a href="https://github.com/juliaNogueiraC/github-readme-stats">
-    <img height=197 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliaNogueiraC&layout=compact&langs_count=8&theme=dark" />
-<img height=192 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliaNogueiraC&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+    <img height=150 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliaNogueiraC&layout=compact&langs_count=8&theme=dark" />
+<img height=150 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliaNogueiraC&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
 </div>
 <br>	
 <br>
@@ -15,12 +15,7 @@ Sou uma profissional versátil apaixonada por transformar dados em insights sign
 - **Linguagens, Softwares e Ferramentas**:
     
   	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb,figma,xd,ps,replit,vscode,git,github,docker,gcp,powershell,wordpress&perline=14" />
-    </a>
-    
-     ![DuckDB](https://img.shields.io/badge/DuckDB-gray)
-	
-    ![Power BI](https://img.shields.io/badge/---Power%20BI-yellow)
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb,figma,xd,ps,replit,vscode,git,github,docker,gcp,powershell,wordpress,tensorflow&perline=14" />  </a>
 
 <br>
 
