@@ -4,11 +4,12 @@ Sou uma profissional versátil apaixonada por transformar dados em insights sign
 <br>
 
 
-<a href="https://github.com/juliaNogueiraC/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliaNogueiraC&layout=compact&langs_count=8&theme=dark" />
-<img height=150 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliaNogueiraC&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-</div>
-<br>	
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juliaNogueiraC&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juliaNogueiraC&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juliaNogueiraC&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliaNogueiraC&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=juliaNogueiraC&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |	
 <br>
 
 
