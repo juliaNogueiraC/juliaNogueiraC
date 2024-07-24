@@ -16,7 +16,7 @@ Sou uma profissional versátil apaixonada por transformar dados em insights sign
 - **Linguagens, Softwares e Ferramentas**:
     
   	<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb,figma,xd,ps,replit,vscode,git,github,docker,gcp,powershell,wordpress,tensorflow&perline=14" />  </a>
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb,figma,xd,ps,replit,vscode,git,github,docker,gcp,powershell,wordpress,tensorflow,flask,gitlab,postgres,sqlite,sklearn&perline=14" />  </a>
 
 <br>
 
@@ -28,21 +28,6 @@ ________________________________________________________________________________
 <div align='left'>
 Conecte-se para Explorarmos Juntos as Possibilidades! Estou aberta a oportunidades desafiadoras na área de análise de dados, onde posso aplicar minha sólida formação técnica para gerar impacto significativo.
 	<br><br>
-<ul>
-
-<li>
-	<p> <b> Linkedin: www.linkedin.com/in/julianogueirac </b></p>
-
-</li>
-
-<br>
-
-<li>
-<p> <b>Gmail: julia.nogueira288@gmail.com</p>
-
-</li>
-	
-</ul>
 </div>
 
 <br>
