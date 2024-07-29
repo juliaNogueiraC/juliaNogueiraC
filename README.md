@@ -1,6 +1,9 @@
-## Engenheira de Software | Dev Python | Analista de Dados.   </b><img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="40"></h1>
-
+## Software Engineer | Python Dev | Data Analyst.   </b><img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="40"></h1>
+**[🇧🇷]** <br>
 Sou uma profissional versátil apaixonada por transformar dados em insights significativos. Minha formação é em Engenharia de Software, onde desenvolvi habilidades analíticas aguçadas e um olhar crítico para soluções inovadoras. Possuo MBA em Análise de Dados com BI & Big Data. Meus projetos de dados são em sua maior parte, voltados para área de negócios e gestão de pessoas. 
+<br>
+**[🇺🇸]** <br>
+I'm a versatile professional with a passion for turning data into meaningful insights. My background is in Software Engineering, where I developed sharp analytical skills and a critical eye for innovative solutions. I have an MBA in Data Analysis with BI & Big Data. My data projects are mostly focused on business and people management. 
 <br>
 
 
@@ -24,10 +27,14 @@ ________________________________________________________________________________
 
 
 ## <b> Entre em contato! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
 <div align='left'>
+	
+**[🇧🇷]** <br>
 Conecte-se para Explorarmos Juntos as Possibilidades! Estou aberta a oportunidades desafiadoras na área de análise de dados, onde posso aplicar minha sólida formação técnica para gerar impacto significativo.
-	<br><br>
+	<br>
+**[🇺🇸]** <br>
+Connect so we can explore the possibilities together! I am open to challenging opportunities in the field of data analysis, where I can apply my solid technical background to generate significant impact.
+	<br>
 </div>
 
 <br>
