@@ -22,9 +22,7 @@ I'm a versatile professional with a passion for turning data into meaningful ins
     <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb,figma,xd,ps,replit,vscode,git,github,docker,gcp,powershell,wordpress,tensorflow,flask,gitlab,postgres,sqlite,sklearn&perline=14" />  </a>
 
 <br>
-
 __________________________________________________________________________________________________________________________________________
-
 
 ## <b> Entre em contato! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <div align='left'>
