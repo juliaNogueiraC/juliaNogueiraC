@@ -41,5 +41,5 @@ Connect so we can explore the possibilities together! I am open to challenging o
 <br>
 <br>
 
-
+![Snake animation](https://github.com/juliaNogueiraC/juliaNogueiraC/blob/output/github-contribution-grid-snake-dark.svg)
 
