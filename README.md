@@ -14,10 +14,15 @@ I'm a versatile professional with a passion for turning data into meaningful ins
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliaNogueiraC&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=juliaNogueiraC&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |	
 <br>
-    
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb,figma,xd,ps,replit,vscode,git,github,docker,gcp,powershell,wordpress,tensorflow,flask,gitlab,postgres,sqlite,sklearn&perline=14" />  </a>
-
+<div align='center'> 
+  <a  href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,mongodb,figma,xd,ps,replit,vscode,git&perline=14" />  </a>
+</div>
+<div align='center'>
+	 <a  href="https://skillicons.dev">
+	 <img src="https://skillicons.dev/icons?i=github,docker,gcp,powershell,wordpress,tensorflow,flask,gitlab,postgres,sqlite,sklearn&perline=14" /> 
+	</a>
+</div>
 <br>
 __________________________________________________________________________________________________________________________________________
 
