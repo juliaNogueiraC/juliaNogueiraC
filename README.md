@@ -1,4 +1,4 @@
-## Software Engineer | Python Dev | Data Analyst.   </b><img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="40"></h1>
+## Data Analyst | Data Scientist | Business Intelligence (BI)   </b><img src="https://media.giphy.com/media/kPrlykW2TpVU4HWx2O/giphy.gif" width="40"></h1>
 **[🇧🇷]** <br>
 Sou uma profissional versátil apaixonada por transformar dados em insights significativos. Minha formação é em Engenharia de Software, onde desenvolvi habilidades analíticas aguçadas e um olhar crítico para soluções inovadoras. Possuo MBA em Análise de Dados com BI & Big Data. Meus projetos de dados são em sua maior parte, voltados para área de negócios e gestão de pessoas. 
 <br>
