@@ -20,7 +20,7 @@ I'm a versatile professional with a passion for turning data into meaningful ins
 </div>
 <div align='center'>
 	 <a  href="https://skillicons.dev">
-	 <img src="https://skillicons.dev/icons?i=github,docker,gcp,powershell,wordpress,tensorflow,flask,gitlab,postgres,sqlite,sklearn&perline=14" /> 
+	 <img src="https://skillicons.dev/icons?i=github,docker,gcp,powershell,wordpress,tensorflow,flask,gitlab,postgres,sqlite,sklearn,r&perline=14" /> 
 	</a>
 </div>
 <br>
